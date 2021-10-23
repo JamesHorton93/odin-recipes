@@ -1,0 +1,29 @@
+/* styles.css */
+
+.title {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.lasagne,
+.philly,
+.pbc {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+ol {
+    list-style: none;
+}
+
+img {
+    height: auto;
+    width: 1000px;
+
+}
